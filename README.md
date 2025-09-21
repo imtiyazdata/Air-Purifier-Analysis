@@ -28,7 +28,8 @@ The goal is to inform strategic decisions regarding air purifier products in Sou
    Health Data: Health event counts from the Integrated Disease Surveillance Programme (IDSP).
    Population Data: Population projections for different states.
    Vehicle Registration Data: Data on vehicle registrations by state.
-⚙ Dependencies
+   
+⚙ Dependencies:
    This project requires the following Python libraries:
   . pandas
   . scipy
